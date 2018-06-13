@@ -1,0 +1,4 @@
+﻿  static.cpp
+d:\c代码\洪大作业\洪大作业\static.cpp(5): warning C4101: “b”: 未引用的局部变量
+  洪大作业.vcxproj -> D:\c代码\洪大作业\Debug\洪大作业.exe
+  洪大作业.vcxproj -> D:\c代码\洪大作业\Debug\洪大作业.pdb (Full PDB)
